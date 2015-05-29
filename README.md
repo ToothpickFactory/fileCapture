@@ -21,4 +21,4 @@ If image:
 <img ng-src="{{capturedFile.preview}}"/>
 ```
 
-File holds all the information exactly like a native form iput type file would. This is useful if you would like to pull the file size, file name, or any other meta data on the file.
+File holds all the information exactly like a native form input type file would. This is useful if you would like to pull the file size, file name, or any other meta data on the file.
