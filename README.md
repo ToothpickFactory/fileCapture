@@ -1,5 +1,5 @@
 # fileCapture
-An angular directive designed to simplify the capturing of a file.
+An angular directive designed to simplify the capturing of a file. http://jsfiddle.net/pbuuwtnd/2/
 
 # Install
 Include fileCapture.js into your project
