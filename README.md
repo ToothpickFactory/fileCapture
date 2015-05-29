@@ -4,7 +4,10 @@ An angular directive designed to simplify the capturing of a file via <input typ
 # Install
 Include fileCapture.js into your project
 
-Add "fileCapture" as a dependency for your project. e.x. angular.model("app", ["fileCapture"])
+Add "fileCapture" as a dependency for your project. 
+```
+angular.model("app", ["fileCapture"])
+```
 
 #Use
 ```
